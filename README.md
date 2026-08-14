@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=header"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tristanchme/tristanchme/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tristanchme/tristanchme/main/light.svg">
+    <img alt="Tristan Chomienne — terminal profile" src="https://raw.githubusercontent.com/tristanchme/tristanchme/main/light.svg">
+  </picture>
   
   <h1>Tristan Chomienne</h1>
   <p><strong>Key Account Manager — Grands Comptes | Orange Business</strong></p>
