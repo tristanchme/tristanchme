@@ -26,6 +26,25 @@ Je pilote des comptes stratégiques sur le portefeuille **CAPS** (Connectivity, 
 
 ---
 
+## 💻 whoami
+
+```text
+$ whoami
+tristanchme — Key Account Manager @ Orange Business
+
+$ cat interests.txt
+vente complexe B2B · MEDDICCC · SPIN Selling · CAPS
+cybersécurité · Zero Trust · cloud souverain
+
+$ echo $STACK
+obsidian · git · n8n · python · IA souveraine
+
+$ status
+🎯 closing deals · 📚 Master 5 Euridis · 🇬🇧 prochain arrêt : Londres
+```
+
+---
+
 ## 🛠️ Compétences
 
 ### Méthodologies commerciales
